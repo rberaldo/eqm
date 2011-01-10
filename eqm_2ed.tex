@@ -1,0 +1,102 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% EXPERIÊNCIA DE QUASE MORTE
+% segunda edição
+% por Ibrahim Cesar
+%
+% Edição de Rafael Beraldo
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Preâmbulo %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt,openright,draft,twoside,extrafonts,a5paper]{memoir}
+
+% Configurações de encoding
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Configurando a hifenização e idioma
+\usepackage[english,brazil]{babel}
+
+% Escolhendo a fonte
+\usepackage[osf]{libertine}
+\usepackage{libertinecomp}
+
+% Carregando pacotes gerais
+\usepackage{leading,graphicx,epstopdf,hyperref,makeidx,pdfpages}
+\usepackage{color} % Para indicar ao Ibrahim o que mudou!
+	\newcommand{\mudanca}[1]{\textcolor{red}{{#1}}}
+
+% E não me esquecendo de produzir o índice!
+\makeindex
+
+% Evitando órfãos e viúvas
+\widowpenalty=1999
+\clubpenalty=999
+\displaywidowpenalty=999
+
+% Escolhendo o estilo dos capítulos
+\chapterstyle{dash}
+
+% Criando um modelo de páginas
+\makepagestyle{bringhurst}
+	\makeevenfoot{bringhurst}{\thepage}{}{}
+	\makeoddfoot{bringhurst}{}{}{\thepage}
+
+% Melhorando a ToC
+\addtodef{\tableofcontents}{\cleardoublepage\pagestyle{empty}}{}
+\setlength{\cftbeforechapterskip}{2.3pt plus 2.3pt}
+\renewcommand*{\insertchapterspace}{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Começando o documento %%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% Pequenas definições tipográficas
+\setlength{\parskip}{1pt plus1pt minus1pt}
+\frenchspacing
+
+% Incluindo a capa
+\includepdfmerge[fitpaper=true]{capa.pdf}
+% Chamando as partes do livro
+%\include{title_page}
+\include{epigrafe}
+%\include{copyright}
+
+\frontmatter
+	\include{prologo}
+	\include{cinco_anos}
+	\tableofcontents
+
+\mainmatter
+\pagestyle{bringhurst}
+	\include{capitulo_1}
+	\include{capitulo_2}
+	\include{capitulo_3}
+	\include{capitulo_4}
+	\include{capitulo_5}
+	\include{capitulo_6}
+	\include{capitulo_7}
+	\include{capitulo_8}
+	\include{capitulo_9}
+	\include{capitulo_10}
+%	\include{capitulo_11}
+%	\include{capitulo_12}
+%	\include{capitulo_13}
+%	\include{capitulo_14}
+%	\include{capitulo_15}
+	
+\backmatter
+%	\include{colofon}
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Fim do documento %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
