@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  25 JAN 2011 14:57
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  25 JAN 2011 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1332,7 +1332,7 @@ dist/fonts/enc/dvips/base/8r.enc} </home/revberaldo/.texlive/texmf-var/fonts/pk
 /ljfour/jknappen/ec/ectt1095.600pk></usr/share/texmf-dist/fonts/type1/public/li
 bertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlr.pfb><
 /usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
-Output written on eqm_2ed.pdf (202 pages, 583951 bytes).
+Output written on eqm_2ed.pdf (202 pages, 584110 bytes).
 PDF statistics:
  687 PDF objects out of 1000 (max. 8388607)
  467 compressed objects within 5 object streams
