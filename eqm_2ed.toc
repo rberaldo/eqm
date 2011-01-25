@@ -11,3 +11,4 @@
 \contentsline {chapter}{\chapternumberline {9}Voc\IeC {\^e} est\IeC {\'a} iluminado?}{107}{chapter.9}
 \contentsline {chapter}{\chapternumberline {10}Dan\IeC {\c c}a macabra}{123}{chapter.10}
 \contentsline {chapter}{\chapternumberline {11}Sarah}{139}{chapter.11}
+\contentsline {chapter}{\chapternumberline {12}Cruzada espiritual}{153}{chapter.12}

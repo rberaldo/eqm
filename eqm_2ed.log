@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  24 JAN 2011 22:57
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  24 JAN 2011 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -845,7 +845,7 @@ LaTeX Warning: Unused global option(s):
 (./eqm_2ed.aux (./epigrafe.aux) (./prologo.aux) (./cinco_anos.aux)
 (./capitulo_1.aux) (./capitulo_2.aux) (./capitulo_3.aux) (./capitulo_4.aux)
 (./capitulo_5.aux) (./capitulo_6.aux) (./capitulo_7.aux) (./capitulo_8.aux)
-(./capitulo_9.aux) (./capitulo_10.aux) (./capitulo_11.aux))
+(./capitulo_9.aux) (./capitulo_10.aux) (./capitulo_11.aux) (./capitulo_12.aux))
 \openout1 = `eqm_2ed.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -862,7 +862,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count153
@@ -957,13 +956,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) [7
 
 
-] [8
-
-]
+] [8]
 \openout2 = `capitulo_1.aux'.
 
 
 (./capitulo_1.tex [1
+
 
 
 ] [2]
@@ -1229,26 +1227,55 @@ Overfull \hbox (1.74072pt too wide) in paragraph at lines 185--186
 o|
  []
 
-[149] [150]) [151] [152
+[149] [150]) [151]
+\openout2 = `capitulo_12.aux'.
+
+ (./capitulo_12.tex [152
+
 
 
 ]
+Overfull \hbox (2.1569pt too wide) in paragraph at lines 9--10
+[]\T1/fxlj/m/n/10.95 Era o Pas-tor FFF. []Es-tava[] com um me-ga-fone na mão e 
+olhava|
+ []
+
+[153] [154] [155] [156] [157]
+Overfull \hbox (2.51825pt too wide) in paragraph at lines 99--100
+[]\T1/fxlj/m/n/10.95 Respirou fundo e ca-mi-nhou. Se-ria me-lhor se ele não olh
+asse|
+ []
+
+[158] [159]
+Overfull \hbox (8.0094pt too wide) in paragraph at lines 137--138
+\T1/fxlj/m/n/10.95 den-tro do carro. Ia abrir a boca para di-zer qual-quer cois
+a, quando|
+ []
+
+[160]
+Overfull \hbox (2.98904pt too wide) in paragraph at lines 181--182
+[]\T1/fxlj/m/n/10.95 Eles al-mo-ça-ram jun-tos. Jo-nas[],[] mesmo apro-vei-tand
+o e dando|
+ []
+
+[161] [162] [163] [164] [165]) [166]
 \tf@toc=\write5
 \openout5 = `eqm_2ed.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
- (./eqm_2ed.aux (./epigrafe.aux) (./prologo.aux)
-(./cinco_anos.aux) (./capitulo_1.aux) (./capitulo_2.aux) (./capitulo_3.aux)
-(./capitulo_4.aux) (./capitulo_5.aux) (./capitulo_6.aux) (./capitulo_7.aux)
-(./capitulo_8.aux) (./capitulo_9.aux) (./capitulo_10.aux) (./capitulo_11.aux))
+ (./eqm_2ed.aux (./epigrafe.aux)
+(./prologo.aux) (./cinco_anos.aux) (./capitulo_1.aux) (./capitulo_2.aux)
+(./capitulo_3.aux) (./capitulo_4.aux) (./capitulo_5.aux) (./capitulo_6.aux)
+(./capitulo_7.aux) (./capitulo_8.aux) (./capitulo_9.aux) (./capitulo_10.aux)
+(./capitulo_11.aux) (./capitulo_12.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 17373 strings out of 493738
- 224884 string characters out of 3148797
- 404918 words of memory out of 3000000
- 20396 multiletter control sequences out of 15000+200000
+ 17383 strings out of 493738
+ 225047 string characters out of 3148797
+ 405851 words of memory out of 3000000
+ 20399 multiletter control sequences out of 15000+200000
  74457 words of font info for 52 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  46i,17n,45p,2676b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1257,10 +1284,10 @@ dist/fonts/enc/dvips/base/8r.enc} </home/revberaldo/.texlive/texmf-var/fonts/pk
 /ljfour/jknappen/ec/ectt1095.600pk></usr/share/texmf-dist/fonts/type1/public/li
 bertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlr.pfb><
 /usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
-Output written on eqm_2ed.pdf (164 pages, 526008 bytes).
+Output written on eqm_2ed.pdf (178 pages, 546687 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
- 384 compressed objects within 4 object streams
+ 610 PDF objects out of 1000 (max. 8388607)
+ 414 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
