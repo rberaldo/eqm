@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2011.2.1)  4 MAR 2011 23:50
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2011.2.1)  7 MAR 2011 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -824,19 +824,34 @@ File: pppdftex.def 2010/12/18 v0.4m Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count152
 \AM@templatesizebox=\box29
 )
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2010/01/10 v2.4 Micro-typography with pdfTeX (RS)
+\MT@toks=\toks26
+\MT@count=\count153
+LaTeX Info: Redefining \lsstyle on input line 1597.
+LaTeX Info: Redefining \lslig on input line 1597.
+\MT@outer@space=\skip186
+LaTeX Info: Redefining \textls on input line 1605.
+\MT@outer@kern=\dimen155
+LaTeX Info: Redefining \textmicrotypecontext on input line 2156.
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2010/01/10 v2.4 microtype main configuration file (RS)
+))
 \eqm_2ed@idxfile=\write4
 \openout4 = `eqm_2ed.idx'.
 
 
 Writing index file eqm_2ed.idx 
-LaTeX Font Info:    Try loading font information for T1+fxlj on input line 43.
+LaTeX Font Info:    Try loading font information for T1+fxlj on input line 44.
 (/usr/share/texmf-dist/tex/latex/libertine/t1fxlj.fd
 File: t1fxlj.fd 2010/08/30 scaled font definitions for libertine T1/fxlj (Nm).
 )
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 10.95pt on input line 43.
+(Font)              scaled to size 10.95pt on input line 44.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 12.0pt on input line 43.
+(Font)              scaled to size 12.0pt on input line 44.
 
 
 LaTeX Warning: Unused global option(s):
@@ -851,39 +866,39 @@ LaTeX Warning: Unused global option(s):
 )
 \openout1 = `eqm_2ed.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
  (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
-\scratchdimen=\dimen155
+\scratchcounter=\count154
+\scratchdimen=\dimen156
 \scratchbox=\box30
-\nofMPsegments=\count154
-\nofMParguments=\count155
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count156
-\MPscratchDim=\dimen156
-\MPnumerator=\count157
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count155
+\nofMParguments=\count156
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count157
+\MPscratchDim=\dimen157
+\MPnumerator=\count158
+\everyMPtoPDFconversion=\toks28
 )
 \AtBeginShipoutBox=\box31
 
 
 Package hyperref Warning: Draft mode on.
 
-Package hyperref Info: Link coloring OFF on input line 59.
+Package hyperref Info: Link coloring OFF on input line 60.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -893,16 +908,22 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
 )
-\c@section@level=\count158
+\c@section@level=\count159
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 59.
-LaTeX Info: Redefining \ref on input line 59.
-LaTeX Info: Redefining \pageref on input line 59.
-LaTeX Info: Redefining \nameref on input line 59.
+LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \microtypecontext on input line 60.
+
+Package microtype Warning: `draft' option active.
+(microtype)                Disabling all micro-typographic extensions.
+(microtype)                This might lead to different line and page breaks.
+
 <capa.pdf, id=2, page=1, 421.09319pt x 597.432pt>
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 66.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 67.
 
 (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1422,7 +1443,7 @@ elo mundo|
  []
 
 )
-Overfull \hbox (1.38475pt too wide) in paragraph at lines 173--96
+Overfull \hbox (1.38475pt too wide) in paragraph at lines 173--97
 \T1/fxlj/m/n/10.95 com-pos-tas, ata-ques ter-ro-ris-tas são fei-tos, al-guém fa
 z uma prece|
  []
@@ -1459,7 +1480,7 @@ ou a porta,|
  []
 
 )
-Overfull \hbox (0.93044pt too wide) in paragraph at lines 111--97
+Overfull \hbox (0.93044pt too wide) in paragraph at lines 111--98
 []\T1/fxlj/m/n/10.95 Se le-van-tou len-ta-mente do chão, ainda cho-rando, pen-s
 ando|
  []
@@ -1484,8 +1505,8 @@ g?|
 \tf@toc=\write5
 \openout5 = `eqm_2ed.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./eqm_2ed.aux (./epigrafe.aux) (./prologo.aux) (./cinco_anos.aux) (./capitulo
 _1.aux) (./capitulo_2.aux)
 (./capitulo_3.aux) (./capitulo_4.aux) (./capitulo_5.aux) (./capitulo_6.aux)
@@ -1493,16 +1514,16 @@ _1.aux) (./capitulo_2.aux)
 (./capitulo_11.aux) (./capitulo_12.aux) (./capitulo_13.aux) (./capitulo_14.aux)
 (./capitulo_15.aux) (./capitulo_16.aux) (./capitulo_17.aux) (./capitulo_18.aux)
 (./capitulo_19.aux) (./capitulo_20.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 17474 strings out of 493738
- 226560 string characters out of 3148798
- 413497 words of memory out of 3000000
- 20434 multiletter control sequences out of 15000+200000
+ 18715 strings out of 493738
+ 248760 string characters out of 3148798
+ 465134 words of memory out of 3000000
+ 21669 multiletter control sequences out of 15000+200000
  74457 words of font info for 52 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 46i,17n,45p,2730b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,17n,45p,2730b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-8x.enc}{/usr/share/texmf-
 dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-supe
 r/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
