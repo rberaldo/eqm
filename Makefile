@@ -9,7 +9,7 @@ DOC = eqm_2ed
 
 ############################### PROGRAMS ###############################
 
-TEX = pdflatex
+TEX = lualatex
 RM = rm -f
 MAKE = make 
 

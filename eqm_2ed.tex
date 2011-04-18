@@ -15,12 +15,13 @@
 
 \documentclass[11pt,openright,draft,twoside,extrafonts,a5paper]{memoir}
 
-% Configurações de encoding
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+% Configurações de fonte
+\usepackage{fontspec}
+        \fontspec{Linux Libertine}
+        \setmainfont[Numbers=OldStyle,Ligatures=TeX]{Linux Libertine}
 
 % Configurando a hifenização e idioma
-\usepackage[english,brazil]{babel}
+\usepackage[english,portuguese]{babel}
 
 % Escolhendo a fonte
 \usepackage[osf]{libertine}
@@ -97,7 +98,7 @@
 	\include{capitulo_18}
 	\include{capitulo_19}
 	\include{capitulo_20}
-%	\include{capitulo_21}
+	\include{capitulo_21}
 %	\include{capitulo_22}
 %	\include{capitulo_23}
 %	\include{capitulo_24}
